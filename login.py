@@ -6,8 +6,8 @@ import random
 from PIL import Image
 from aip import AipOcr
 
-data = {"studentId":["201801120108"],
-        "password" :["Lym180108"]}
+data = {"studentId":["201801120108","201801130114"],
+        "password" :["Lym180108","Pjstan55."]}
 
 # data = {"studentId":["201801120127"],
 #         "password" :["Aolong0813"]}
